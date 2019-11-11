@@ -11,6 +11,7 @@ Predicting the salary of each individual based on the given details like age, ty
 	-	pip install -U numpy –user <br/>
 	-	pip install -U pandas –user <br/>
 	-   pip install -U scikit-learn --user <br/>
+	
 3.Copy the csv file to the same folder as SalaryPrediction.ipynb.
 	
 4.Execute the file SalaryPrediction.ipynb using google Colaboratory / Jupiter Notebook.
